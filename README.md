@@ -1,6 +1,6 @@
 This project is a Movie Recommender System built using Python and Pycharm. I also tried using Heroku for deployment purposes, but could not complete it since it was asking for credit card credentials, and I do not own one.
 
-The method used to recommend movies is content based filtering. However, I could not calculate any of the accuracy scores since the dataset I used did not consist of user-defined ratings (I have attached the files in the repository)
+The method used to recommend movies is content based filtering. However, I could not calculate any of the accuracy scores since the dataset I used did not consist of user-defined ratings (I have attached the files in the repository and the download link for the files is given adjacent) https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 The first step in the project was to clean and preprocess the data, which was done by removing null values, editing out unwanted columns and merging some of them to create a better dataframe.
 ![image](https://github.com/user-attachments/assets/144e841d-f597-42b5-99f6-ee3b74d87bad)
